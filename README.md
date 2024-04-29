@@ -17,7 +17,7 @@
     
     <p>Além de fazer novos amigos, tenho vários hobbies como música, filmes, livros e viagens. Se você também curte essas coisas ou só quer trocar uma ideia, estou aqui para isso!</p>
 
-    <p>Vamos construir uma comunidade de amigos felizes e conectados juntos!</p>
+    <p>Vamos construir uma comunidade de amigos felizes e conectados juntos!</p> 
 
     <!-- Link para o WhatsApp -->
     <p>Mande uma mensagem ou me ligue no (clique para chamar)<a href="https://wa.me/5511963915429">(11) 96391-5429</a>. Estou super ansiosa para te conhecer!</p>
