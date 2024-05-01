@@ -13,7 +13,7 @@
 
     <img src="https://github.com/poderosaaninha/ana/assets/168467001/c41be8a6-5d57-488f-ae8a-fdf1fd58aed9" alt="Foto de Aninha">
     <img src="https://github.com/poderosaaninha/ana/assets/168467001/efbb6540-b4e7-4e55-b4a4-abebd82c003f" alt="Foto adicional 1">
-    <img src="https://github.com/poderosaaninha/ana/assets/168467001/d78cf5bb-4518-4b1c-ad13-e2b1365a49bb" alt="Foto adicional 2"> 
+    <img src="https://github.com/poderosaaninha/ana/assets/168467001/d78cf5bb-4518-4b1c-ad13-e2b1365a49bb" alt="Foto adicional 2">  
     
     <p>Além de fazer novos amigos, tenho vários hobbies como música, filmes, livros e viagens. Se você também curte essas coisas ou só quer trocar uma ideia, estou aqui para isso!</p>
 
