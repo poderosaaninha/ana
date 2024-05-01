@@ -11,9 +11,9 @@
 
     <p>Sou a Ana, e adoraria fazer novas amizades! Tenho 26 anos e estou sempre animada para conhecer pessoas interessantes. Sou amigável, tranquila e carinhosa, e adoro compartilhar momentos divertidos.</p>
 
-    <img src="C:\Users\Usuario\Desktop\conteudo adulto\fotos\1.jpg" alt="Foto de Aninha">
-    <img src="C:\Users\Usuario\Desktop\conteudo adulto\fotos\2.jpg" alt="Foto adicional 1">
-    <img src="C:\Users\Usuario\Desktop\conteudo adulto\fotos\3.jpg" alt="Foto adicional 2"> 
+    <img src="https://github.com/poderosaaninha/ana/blob/main/3.jpg?raw=true" alt="Foto de Aninha">
+    <img src="https://github.com/poderosaaninha/ana/blob/main/2.jpg?raw=true" alt="Foto adicional 1">
+    <img src="https://github.com/poderosaaninha/ana/blob/main/1.jpg?raw=true" alt="Foto adicional 2"> 
     
     <p>Além de fazer novos amigos, tenho vários hobbies como música, filmes, livros e viagens. Se você também curte essas coisas ou só quer trocar uma ideia, estou aqui para isso!</p>
 
